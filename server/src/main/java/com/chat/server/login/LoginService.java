@@ -4,7 +4,6 @@ import com.chat.server.login.dto.Login;
 import com.chat.server.login.exchange.LoginRequest;
 import com.chat.server.login.exchange.LoginResponse;
 import com.chat.server.login.repository.LoginRepository;
-import jakarta.annotation.Resource;
 import lombok.NoArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.authentication.AuthenticationManager;
